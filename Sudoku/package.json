@@ -1,0 +1,14 @@
+{
+  "name": "sudoku",
+  "version": "0.0.0",
+  "description": "Sudoku",
+  "main": "server.js",
+  "author": {
+    "name": ""
+  },
+  "devDependencies": {
+    "eslint": "^8.21.0"
+  },
+  "eslintConfig": {
+  }
+}
